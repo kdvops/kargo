@@ -1,7 +1,7 @@
 api:
   adminAccount:
-    passwordHash: <bcrypt-hashed password>
-    tokenSigningKey: <token signing key>
+    passwordHash: $2y$10$9MQqb5yPUFyaBuqzZYuf7eDNQVZqbcXIlJHHbgTiuDq3ntA7V8XRi
+    tokenSigningKey: oMJBBmr49BuYVmDw6ffxajxHf1yFESUe
     tokenTTL: 24h
 controller:
   logLevel: DEBUG
