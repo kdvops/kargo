@@ -15,7 +15,7 @@ spec:
       helm:
         valueFiles:
           - $values/kargo/values.yaml
-    - repoURL: https://github.com/example/repo.git
+    - repoURL: https://github.com/kdvops/kargo.git
       targetRevision: main
       ref: values
       path: kargo/additional-manifests
