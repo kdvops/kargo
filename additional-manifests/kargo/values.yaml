@@ -1,1 +1,7 @@
-5
+api:
+  adminAccount:
+    passwordHash: <bcrypt-hashed password>
+    tokenSigningKey: <token signing key>
+    tokenTTL: 24h
+controller:
+  logLevel: DEBUG
