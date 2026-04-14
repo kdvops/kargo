@@ -1,6 +1,6 @@
 api:
   adminAccount:
-    passwordHash: $2y$10$9MQqb5yPUFyaBuqzZYuf7eDNQVZqbcXIlJHHbgTiuDq3ntA7V8XRi
+    passwordHash: $2y$10$MPoQdUlu9mnUsJeZrjF5euxu0MJfZXOuwqMP63eQQTZSF5Vh7og.S
     tokenSigningKey: oMJBBmr49BuYVmDw6ffxajxHf1yFESUe
     tokenTTL: 24h
 controller:
